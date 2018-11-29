@@ -1,0 +1,58 @@
+body {
+    background-color: #cccbcb;
+}
+.main {
+    margin: 10% auto;
+    width: 60%;
+    background-color:white;
+    height: 350px;
+    
+}
+.left {
+    width: 50%;
+    background-color: white;
+    height: 400px;
+    float: left;
+}
+.right {
+    width: 50%;
+    background-color:rgb(46, 118, 235);
+    height: 400px;
+    float: right;	
+}
+.rTxt{
+    color: white;
+    font-size : 30px;
+    text-align: center;
+    padding-top: 20%;
+
+}
+.rP{
+    color: white;
+    padding:20px;
+    text-align: justify;
+    font-size: 14px;
+}
+.lTxt{
+    padding-top: 15%;
+    padding-left: 15%;
+
+}
+#myBtn{
+    margin-left : 33% !important;
+}
+input{
+  margin-top: 12px;
+  margin-left: 15%;
+  width : 70% !important;
+  
+}
+#lBtn{
+    margin-top: 12px;
+    margin-left: 15%;
+
+}
+.lP{
+    color: #6b6a6a;
+    padding-left: 15%;
+}
